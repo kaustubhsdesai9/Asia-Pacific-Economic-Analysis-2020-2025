@@ -1,0 +1,560 @@
+COUNTRY,INDICATOR,FREQUENCY,TIME_PERIOD,OBS_VALUE,SCALE
+"Taiwan Province of China","Unemployment rate",Annual,2020,3.85,Units
+"Taiwan Province of China","Unemployment rate",Annual,2021,3.95,Units
+"Taiwan Province of China","Unemployment rate",Annual,2022,3.67,Units
+"Taiwan Province of China","Unemployment rate",Annual,2023,3.48,Units
+"Taiwan Province of China","Unemployment rate",Annual,2024,3.39,Units
+"Taiwan Province of China","Unemployment rate",Annual,2025,3.39,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-0.24,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.97,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,2.95,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.49,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.18,Units
+"Taiwan Province of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.73,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,3.22,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.84,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,3.16,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,3.25,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,3.62,Units
+Vietnam,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,3.40,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.54,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.50,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.09,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,3.60,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.32,Units
+"Korea, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.99,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,3.74,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,7.37,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,15.14,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,10.35,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,6.21,Units
+Mongolia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,8.27,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2020,2.55,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2021,2.95,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2022,3.68,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2023,2.65,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2024,1.80,Units
+"Macao Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2025,1.70,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.56,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,3.09,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.13,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.01,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,6.02,Units
+Cambodia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.77,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-0.70,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,4.61,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.73,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.58,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,2.00,Units
+"Korea, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,0.90,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,1.13,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-1.59,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-1.63,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.13,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.05,Units
+"Brunei Darussalam","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,1.80,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.55,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.05,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.35,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,9.25,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.49,Units
+Kiribati,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,7.79,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.81,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,9.76,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,4.11,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.82,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.39,Units
+Singapore,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.23,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-6.01,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-11.91,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-0.46,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.22,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,12.01,Units
+"Palau, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.49,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.93,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.18,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.40,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,5.09,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,4.23,Units
+"Solomon Islands","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,3.44,Units
+Vietnam,"Unemployment rate",Annual,2020,2.48,Units
+Vietnam,"Unemployment rate",Annual,2021,3.20,Units
+Vietnam,"Unemployment rate",Annual,2022,2.32,Units
+Vietnam,"Unemployment rate",Annual,2023,2.30,Units
+Vietnam,"Unemployment rate",Annual,2024,2.20,Units
+Vietnam,"Unemployment rate",Annual,2025,2.25,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-9.52,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,5.71,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,7.58,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.52,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.69,Units
+Philippines,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,5.44,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,4.87,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,4.48,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.25,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.30,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,0.59,Units
+"Papua New Guinea","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,4.79,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,1.48,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,-3.01,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,8.75,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,11.98,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,3.59,Units
+Samoa,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.83,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,5.65,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,5.56,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.15,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,9.02,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,9.73,Units
+Bangladesh,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,10.03,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-4.99,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-1.55,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.19,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.09,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,0.94,Units
+Vanuatu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,1.67,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-0.17,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.32,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.13,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,4.83,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.39,Units
+Singapore,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.93,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,3.04,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,8.22,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.95,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,4.54,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,4.26,Units
+Bhutan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,2.42,Units
+"Sri Lanka","Unemployment rate",Annual,2020,5.50,Units
+"Sri Lanka","Unemployment rate",Annual,2021,5.10,Units
+"Sri Lanka","Unemployment rate",Annual,2022,5.25,Units
+"Sri Lanka","Unemployment rate",Annual,2023,5.00,Units
+"Sri Lanka","Unemployment rate",Annual,2024,4.75,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-17.16,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-4.36,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,17.74,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,9.45,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.54,Units
+"Fiji, Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.19,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.17,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-0.51,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.71,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,3.81,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.77,Units
+"Papua New Guinea","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.74,Units
+Malaysia,"Unemployment rate",Annual,2020,4.53,Units
+Malaysia,"Unemployment rate",Annual,2021,4.60,Units
+Malaysia,"Unemployment rate",Annual,2022,3.90,Units
+Malaysia,"Unemployment rate",Annual,2023,3.20,Units
+Malaysia,"Unemployment rate",Annual,2024,3.20,Units
+Malaysia,"Unemployment rate",Annual,2025,3.00,Units
+"Sri Lanka","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-4.62,Units
+"Sri Lanka","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,4.21,Units
+"Sri Lanka","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-7.35,Units
+"Sri Lanka","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,-2.33,Units
+"Sri Lanka","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.01,Units
+Mongolia,"Unemployment rate",Annual,2020,6.70,Units
+Mongolia,"Unemployment rate",Annual,2021,8.30,Units
+Mongolia,"Unemployment rate",Annual,2022,6.40,Units
+Mongolia,"Unemployment rate",Annual,2023,5.30,Units
+Mongolia,"Unemployment rate",Annual,2024,5.00,Units
+Mongolia,"Unemployment rate",Annual,2025,5.00,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.39,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,3.93,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.82,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,5.98,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,3.21,Units
+Philippines,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.61,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,2.87,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,2.55,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,8.54,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.07,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,7.09,Units
+Vietnam,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,6.46,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,1.71,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,3.94,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,7.17,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,5.73,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.92,Units
+"New Zealand","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,2.74,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,5.10,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,3.75,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,22.96,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,31.23,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,23.13,Units
+"Lao People's Democratic Republic","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,7.84,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.24,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.59,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.55,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,12.55,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,8.00,Units
+Tonga,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,2.94,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-1.14,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.48,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,3.38,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.49,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.83,Units
+Malaysia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.59,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-1.59,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.21,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,2.60,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.61,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.45,Units
+Maldives,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,3.87,Units
+"China, People's Republic of","Unemployment rate",Annual,2020,5.62,Units
+"China, People's Republic of","Unemployment rate",Annual,2021,5.12,Units
+"China, People's Republic of","Unemployment rate",Annual,2022,5.58,Units
+"China, People's Republic of","Unemployment rate",Annual,2023,5.22,Units
+"China, People's Republic of","Unemployment rate",Annual,2024,5.12,Units
+"China, People's Republic of","Unemployment rate",Annual,2025,5.10,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-6.54,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,6.45,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-3.68,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,3.22,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,2.50,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.44,Units
+"Fiji, Republic of","Unemployment rate",Annual,2020,13.35,Units
+"Fiji, Republic of","Unemployment rate",Annual,2021,9.00,Units
+"Fiji, Republic of","Unemployment rate",Annual,2022,6.50,Units
+"Fiji, Republic of","Unemployment rate",Annual,2023,6.50,Units
+"Fiji, Republic of","Unemployment rate",Annual,2024,6.50,Units
+"Fiji, Republic of","Unemployment rate",Annual,2025,5.50,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-2.07,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,3.70,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.31,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.05,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.03,Units
+Indonesia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.86,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.89,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.82,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.66,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,5.59,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,3.20,Units
+Australia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,2.58,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.96,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.77,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.02,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,6.21,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,5.44,Units
+"Micronesia, Federated States of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,4.08,Units
+Indonesia,"Unemployment rate",Annual,2020,7.07,Units
+Indonesia,"Unemployment rate",Annual,2021,6.49,Units
+Indonesia,"Unemployment rate",Annual,2022,5.86,Units
+Indonesia,"Unemployment rate",Annual,2023,5.32,Units
+Indonesia,"Unemployment rate",Annual,2024,4.91,Units
+Indonesia,"Unemployment rate",Annual,2025,5.00,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-2.60,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.16,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,4.32,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.34,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,4.51,Units
+"Fiji, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.10,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.27,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,0.10,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-11.75,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,4.03,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.08,Units
+Tuvalu,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.02,Units
+"Brunei Darussalam","Unemployment rate",Annual,2020,6.82,Units
+"Brunei Darussalam","Unemployment rate",Annual,2021,7.30,Units
+"Brunei Darussalam","Unemployment rate",Annual,2022,4.91,Units
+"Brunei Darussalam","Unemployment rate",Annual,2023,5.16,Units
+"Brunei Darussalam","Unemployment rate",Annual,2024,5.20,Units
+"Brunei Darussalam","Unemployment rate",Annual,2025,4.80,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.94,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.92,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,5.33,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.13,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,0.87,Units
+Cambodia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.63,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-2.46,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-3.29,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,4.83,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.04,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.25,Units
+Bhutan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,6.79,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-1.98,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,3.10,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-2.91,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,0.48,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,0.72,Units
+"Micronesia, Federated States of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,0.99,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.25,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.57,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,1.88,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,2.10,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.73,Units
+"Hong Kong Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.75,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-5.78,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,9.69,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,7.61,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,9.19,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,6.49,Units
+India,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,6.65,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.38,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,2.56,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.40,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.66,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,2.53,Units
+"Solomon Islands","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.71,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-9.03,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-12.00,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,4.02,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.00,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,-1.12,Units
+Myanmar,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,-2.68,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,5.35,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.34,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.68,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,11.18,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.20,Units
+Vanuatu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.74,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-54.34,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,23.54,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-19.61,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,75.06,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,8.81,Units
+"Macao Special Administrative Region, People's Republic of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.59,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-0.43,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,2.06,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.25,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,3.66,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.30,Units
+"Lao People's Democratic Republic","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.49,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.03,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.56,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,4.14,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,3.71,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.30,Units
+Indonesia,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.84,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-3.10,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,-5.08,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.27,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,15.22,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.56,Units
+Samoa,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.71,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.81,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.03,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,1.04,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,0.94,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,0.74,Units
+"Macao Special Administrative Region, People's Republic of China","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.50,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-6.05,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,1.54,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.63,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.01,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,2.54,Units
+Thailand,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.00,Units
+Philippines,"Unemployment rate",Annual,2020,10.40,Units
+Philippines,"Unemployment rate",Annual,2021,7.78,Units
+Philippines,"Unemployment rate",Annual,2022,5.40,Units
+Philippines,"Unemployment rate",Annual,2023,4.36,Units
+Philippines,"Unemployment rate",Annual,2024,3.81,Units
+Philippines,"Unemployment rate",Annual,2025,3.87,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,1.94,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.73,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,3.68,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,0.36,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,-0.39,Units
+"Brunei Darussalam","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.40,Units
+Thailand,"Unemployment rate",Annual,2020,1.70,Units
+Thailand,"Unemployment rate",Annual,2021,1.90,Units
+Thailand,"Unemployment rate",Annual,2022,1.30,Units
+Thailand,"Unemployment rate",Annual,2023,1.00,Units
+Thailand,"Unemployment rate",Annual,2024,1.00,Units
+Thailand,"Unemployment rate",Annual,2025,1.00,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.49,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,3.77,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,7.01,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,8.42,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.06,Units
+"Timor-Leste, Democratic Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.89,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-0.03,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,-0.23,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,2.50,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,3.27,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,2.74,Units
+Japan,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,3.29,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-1.47,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,8.48,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,4.57,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.65,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.27,Units
+Kiribati,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.90,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.25,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,9.60,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,28.01,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,25.49,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,26.50,Units
+Myanmar,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,31.00,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-5.46,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,3.32,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,9.03,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,3.54,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.11,Units
+Malaysia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.50,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-4.17,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,2.70,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,0.96,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.25,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,0.10,Units
+Japan,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,1.08,Units
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-0.66,
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,2.25,
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,2.77,
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,7.44,
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,5.20,
+"Marshall Islands, Republic of the","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,5.18,
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,1.57,Units
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,6.69,Units
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,12.18,Units
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,7.17,Units
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.17,Units
+Tuvalu,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.96,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-8.49,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,2.97,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,3.95,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.37,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.10,Units
+"Timor-Leste, Democratic Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.90,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,3.45,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,6.94,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,7.10,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.78,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.22,Units
+Bangladesh,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.76,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,1.78,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,0.36,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-2.31,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.08,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,2.07,Units
+Tonga,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.72,Units
+"Sri Lanka","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,4.57,Units
+"Sri Lanka","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,5.95,Units
+"Sri Lanka","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,45.21,Units
+"Sri Lanka","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,17.37,Units
+"Sri Lanka","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,1.24,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-32.91,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,37.51,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,13.83,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,4.89,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.28,Units
+Maldives,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.79,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,6.15,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,3.58,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.37,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,7.73,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,5.42,Units
+Nepal,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,4.06,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-4.56,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,1.64,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.03,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,7.42,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.12,Units
+Mongolia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,5.50,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-1.95,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,5.42,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,4.13,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,2.07,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,1.02,Units
+Australia,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,1.81,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,3.42,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,6.72,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.68,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.12,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,4.84,Units
+"Taiwan Province of China","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,3.67,Units
+Singapore,"Unemployment rate",Annual,2020,3.00,Units
+Singapore,"Unemployment rate",Annual,2021,2.65,Units
+Singapore,"Unemployment rate",Annual,2022,2.10,Units
+Singapore,"Unemployment rate",Annual,2023,1.93,Units
+Singapore,"Unemployment rate",Annual,2024,1.95,Units
+Singapore,"Unemployment rate",Annual,2025,2.09,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,0.70,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,-0.48,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,13.18,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,12.42,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,3.61,Units
+"Palau, Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,1.83,Units
+"New Zealand","Unemployment rate",Annual,2020,4.60,Units
+"New Zealand","Unemployment rate",Annual,2021,3.78,Units
+"New Zealand","Unemployment rate",Annual,2022,3.33,Units
+"New Zealand","Unemployment rate",Annual,2023,3.78,Units
+"New Zealand","Unemployment rate",Annual,2024,4.78,Units
+"New Zealand","Unemployment rate",Annual,2025,5.17,Units
+Bhutan,"Unemployment rate",Annual,2020,5.03,Units
+Bhutan,"Unemployment rate",Annual,2021,4.80,Units
+Bhutan,"Unemployment rate",Annual,2022,5.90,Units
+Bhutan,"Unemployment rate",Annual,2023,3.50,Units
+India,"Unemployment rate",Annual,2020,8.66,Units
+India,"Unemployment rate",Annual,2021,7.36,Units
+India,"Unemployment rate",Annual,2022,5.30,Units
+India,"Unemployment rate",Annual,2023,4.94,Units
+India,"Unemployment rate",Annual,2024,4.94,Units
+India,"Unemployment rate",Annual,2025,4.94,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,-0.85,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,1.23,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.08,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,1.23,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,0.40,Units
+Thailand,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.15,Units
+"Korea, Republic of","Unemployment rate",Annual,2020,3.96,Units
+"Korea, Republic of","Unemployment rate",Annual,2021,3.68,Units
+"Korea, Republic of","Unemployment rate",Annual,2022,2.88,Units
+"Korea, Republic of","Unemployment rate",Annual,2023,2.71,Units
+"Korea, Republic of","Unemployment rate",Annual,2024,2.80,Units
+"Korea, Republic of","Unemployment rate",Annual,2025,3.00,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-1.31,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,5.69,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,2.86,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.83,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,-0.56,Units
+"New Zealand","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,0.83,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,2.34,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,8.56,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,3.11,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,5.38,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,5.00,Units
+"China, People's Republic of","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.80,Units
+Australia,"Unemployment rate",Annual,2020,6.48,Units
+Australia,"Unemployment rate",Annual,2021,5.12,Units
+Australia,"Unemployment rate",Annual,2022,3.71,Units
+Australia,"Unemployment rate",Annual,2023,3.70,Units
+Australia,"Unemployment rate",Annual,2024,4.02,Units
+Australia,"Unemployment rate",Annual,2025,4.24,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,6.16,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,5.51,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,6.65,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,5.36,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,4.63,Units
+India,"All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,2.82,Units
+Japan,"Unemployment rate",Annual,2020,2.80,Units
+Japan,"Unemployment rate",Annual,2021,2.82,Units
+Japan,"Unemployment rate",Annual,2022,2.59,Units
+Japan,"Unemployment rate",Annual,2023,2.58,Units
+Japan,"Unemployment rate",Annual,2024,2.57,Units
+Japan,"Unemployment rate",Annual,2025,2.57,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-2.37,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,4.84,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,5.63,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,1.98,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.67,Units
+Nepal,"Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,4.31,Units
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2020,-2.78,
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2021,1.20,
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2022,-1.10,
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2023,-3.99,
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2024,3.00,
+"Marshall Islands, Republic of the","Gross domestic product (GDP), Constant prices, Percent change, Domestic currency",Annual,2025,2.53,
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2020,5.53,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2021,5.41,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2022,4.35,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2023,2.98,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2024,3.01,Units
+"Hong Kong Special Administrative Region, People's Republic of China","Unemployment rate",Annual,2025,3.37,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2020,2.51,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2021,0.92,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2022,1.98,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2023,0.23,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2024,0.21,Units
+"China, People's Republic of","All Items, Consumer price index (CPI), Period average, percent change",Annual,2025,0.01,Units

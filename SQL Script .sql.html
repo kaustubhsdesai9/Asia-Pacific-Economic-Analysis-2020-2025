@@ -1,0 +1,328 @@
+﻿## Checking what countriea are involved in ADREO 
+SELECT DISTINCT COUNTRY
+FROM data_original;
+
+## Creating a staging table 
+CREATE TABLE data_original_staging
+LIKE data_original 
+;
+
+INSERT INTO data_original_staging
+SELECT*
+FROM data_original 
+;
+
+## 1. Remove Duplicates 
+
+##If ROW_NUM is 2 its a duplicate 
+
+SELECT *,
+ROW_NUMBER() OVER
+(PARTITION BY COUNTRY,INDICATOR,FREQUENCY,TIME_PERIOD,OBS_VALUE,SCALE,`PRECISION`,DECIMALS_DISPLAYED,INT_ACC_ITEM,NA_STO,GFS_STO,COICOP_1999,SOC_CONCEPTS,SECTOR,INDEX_TYPE,PRICES,STATISTICAL_MEASURES,TRANSFORMATION,
+UNIT,DERIVATION_TYPE,OVERLAP,DOI,FULL_DESCRIPTION,AUTHOR,PUBLISHER,DEPARTMENT,CONTACT_POINT,TOPIC,TOPIC_DATASET,KEYWORDS,KEYWORDS_DATASET,`LANGUAGE`,PUBLICATION_DATE,UPDATE_DATE,METHODOLOGY,
+METHODOLOGY_NOTES,ACCESS_SHARING_LEVEL,ACCESS_SHARING_NOTES,SECURITY_CLASSIFICATION,`SOURCE`,SHORT_SOURCE_CITATION,FULL_SOURCE_CITATION,LICENSE,SUGGESTED_CITATION,KEY_INDICATOR,SERIES_NAME)
+AS ROW_NUM   
+FROM data_original_staging
+;
+
+## Filtering for Duplicates using CTEs 
+WITH duplicate_cte AS 
+(
+SELECT *,
+ROW_NUMBER() OVER
+(PARTITION BY COUNTRY,INDICATOR,FREQUENCY,TIME_PERIOD,OBS_VALUE,SCALE,`PRECISION`,DECIMALS_DISPLAYED,INT_ACC_ITEM,NA_STO,GFS_STO,COICOP_1999,SOC_CONCEPTS,SECTOR,INDEX_TYPE,PRICES,STATISTICAL_MEASURES,TRANSFORMATION,
+UNIT,DERIVATION_TYPE,OVERLAP,DOI,FULL_DESCRIPTION,AUTHOR,PUBLISHER,DEPARTMENT,CONTACT_POINT,TOPIC,TOPIC_DATASET,KEYWORDS,KEYWORDS_DATASET,`LANGUAGE`,PUBLICATION_DATE,UPDATE_DATE,METHODOLOGY,
+METHODOLOGY_NOTES,ACCESS_SHARING_LEVEL,ACCESS_SHARING_NOTES,SECURITY_CLASSIFICATION,`SOURCE`,SHORT_SOURCE_CITATION,FULL_SOURCE_CITATION,LICENSE,SUGGESTED_CITATION,KEY_INDICATOR,SERIES_NAME)
+AS ROW_NUM   
+FROM data_original_staging
+)
+SELECT*
+FROM duplicate_cte 
+WHERE ROW_NUM > 1
+;
+## No Duplicates found 
+
+## Creating a staging table to manupulate and remove unncessary data 
+CREATE TABLE `data_original_staging_2` (
+  `COUNTRY` varchar(100) DEFAULT NULL,
+  `INDICATOR` varchar(500) DEFAULT NULL,
+  `FREQUENCY` varchar(20) DEFAULT NULL,
+  `TIME_PERIOD` varchar(10) DEFAULT NULL,
+  `OBS_VALUE` decimal(38,15) DEFAULT NULL,
+  `SCALE` varchar(50) DEFAULT NULL,
+  `PRECISION` varchar(50) DEFAULT NULL,
+  `DECIMALS_DISPLAYED` varchar(50) DEFAULT NULL,
+  `INT_ACC_ITEM` varchar(200) DEFAULT NULL,
+  `NA_STO` varchar(200) DEFAULT NULL,
+  `GFS_STO` varchar(200) DEFAULT NULL,
+  `COICOP_1999` varchar(200) DEFAULT NULL,
+  `SOC_CONCEPTS` varchar(200) DEFAULT NULL,
+  `SECTOR` varchar(200) DEFAULT NULL,
+  `INDEX_TYPE` varchar(200) DEFAULT NULL,
+  `PRICES` varchar(200) DEFAULT NULL,
+  `STATISTICAL_MEASURES` varchar(200) DEFAULT NULL,
+  `TRANSFORMATION` varchar(200) DEFAULT NULL,
+  `UNIT` varchar(100) DEFAULT NULL,
+  `DERIVATION_TYPE` varchar(100) DEFAULT NULL,
+  `OVERLAP` varchar(100) DEFAULT NULL,
+  `DOI` varchar(200) DEFAULT NULL,
+  `FULL_DESCRIPTION` text,
+  `AUTHOR` varchar(200) DEFAULT NULL,
+  `PUBLISHER` varchar(200) DEFAULT NULL,
+  `DEPARTMENT` varchar(200) DEFAULT NULL,
+  `CONTACT_POINT` varchar(200) DEFAULT NULL,
+  `TOPIC` varchar(500) DEFAULT NULL,
+  `TOPIC_DATASET` varchar(500) DEFAULT NULL,
+  `KEYWORDS` varchar(500) DEFAULT NULL,
+  `KEYWORDS_DATASET` varchar(500) DEFAULT NULL,
+  `LANGUAGE` varchar(50) DEFAULT NULL,
+  `PUBLICATION_DATE` varchar(50) DEFAULT NULL,
+  `UPDATE_DATE` varchar(50) DEFAULT NULL,
+  `METHODOLOGY` varchar(200) DEFAULT NULL,
+  `METHODOLOGY_NOTES` text,
+  `ACCESS_SHARING_LEVEL` varchar(100) DEFAULT NULL,
+  `ACCESS_SHARING_NOTES` text,
+  `SECURITY_CLASSIFICATION` varchar(100) DEFAULT NULL,
+  `SOURCE` varchar(500) DEFAULT NULL,
+  `SHORT_SOURCE_CITATION` varchar(500) DEFAULT NULL,
+  `FULL_SOURCE_CITATION` text,
+  `LICENSE` varchar(500) DEFAULT NULL,
+  `SUGGESTED_CITATION` text,
+  `KEY_INDICATOR` varchar(10) DEFAULT NULL,
+  `SERIES_NAME` varchar(500) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+;
+
+
+## Adding all the data from data_original to data_orginal_staging 
+INSERT INTO data_original_staging_2
+SELECT* 
+FROM data_original_staging
+;
+
+## Deleting unwanted coloumns 
+ALTER TABLE data_original_staging_2
+DROP COLUMN DECIMALS_DISPLAYED,
+DROP COLUMN INT_ACC_ITEM,
+DROP COLUMN GFS_STO,
+DROP COLUMN COICOP_1999,
+DROP COLUMN SOC_CONCEPTS,
+DROP COLUMN SECTOR,
+DROP COLUMN INDEX_TYPE,
+DROP COLUMN PRICES,
+DROP COLUMN STATISTICAL_MEASURES,
+DROP COLUMN TRANSFORMATION,
+DROP COLUMN UNIT,
+DROP COLUMN DERIVATION_TYPE,
+DROP COLUMN OVERLAP,
+DROP COLUMN DOI,
+DROP COLUMN FULL_DESCRIPTION,
+DROP COLUMN AUTHOR,
+DROP COLUMN PUBLISHER,
+DROP COLUMN DEPARTMENT,
+DROP COLUMN CONTACT_POINT,
+DROP COLUMN TOPIC,
+DROP COLUMN TOPIC_DATASET,
+DROP COLUMN KEYWORDS,
+DROP COLUMN KEYWORDS_DATASET,
+DROP COLUMN `LANGUAGE`,
+DROP COLUMN PUBLICATION_DATE,
+DROP COLUMN UPDATE_DATE,
+DROP COLUMN METHODOLOGY,
+DROP COLUMN METHODOLOGY_NOTES,
+DROP COLUMN ACCESS_SHARING_LEVEL,
+DROP COLUMN ACCESS_SHARING_NOTES,
+DROP COLUMN SECURITY_CLASSIFICATION,
+DROP COLUMN `SOURCE`,
+DROP COLUMN SHORT_SOURCE_CITATION,
+DROP COLUMN FULL_SOURCE_CITATION,
+DROP COLUMN LICENSE,
+DROP COLUMN SUGGESTED_CITATION,
+DROP COLUMN KEY_INDICATOR,
+DROP COLUMN SERIES_NAME,
+DROP COLUMN NA_STO,
+DROP COLUMN `PRECISION`;
+;
+
+## Removing unwanted Rows
+DELETE FROM data_original_staging_2
+WHERE TIME_PERIOD < 2020
+;
+
+DELETE FROM data_original_staging_2
+WHERE TIME_PERIOD >= 2026
+;
+
+## Checking what indicators involved in ADREO data 
+SELECT DISTINCT INDICATOR
+FROM data_original_staging_2
+;
+
+DELETE FROM data_original_staging_2
+WHERE INDICATOR = 'Gross domestic product (GDP), Constant prices, Purchasing power parity (PPP) per capita percent change'
+; 
+
+DELETE FROM data_original_staging_2
+WHERE INDICATOR = 'All Items, Consumer price index (CPI), End-of-period (EoP), percent change'
+;
+
+ALTER TABLE data_original_staging_2
+MODIFY OBS_VALUE DECIMAL(10,2)
+;
+
+
+## Answering questions in the brief 
+## Which Asia-Pacific economies show the strongest and weakest GDP growth trends?
+
+## 2025
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR = 'Gross domestic product (GDP), Constant prices, Per cent change, Domestic currency' 
+AND TIME_PERIOD = 2025
+;
+
+
+
+## 2020-2025 (Only largest 5 economies will be used for data viz - China, Japan, India, Australia, Korea)
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency' 
+AND TIME_PERIOD BETWEEN 2020 And 2025
+;
+
+## How do investment and saving trends vary across countries? 
+
+##2025
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR = 'Current account balance (credit less debit), Percent of GDP in US dollars' 
+AND TIME_PERIOD = 2025
+;
+
+## 2020-2025 (Only largest 5 economies will be used for data viz - China, Japan, India, Australia, Korea)
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR = 'Current account balance (credit less debit), Percent of GDP in US dollars' 
+;
+
+## Which economies appear most stable vs volatile over time? 
+
+##2025
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR IN (
+    'Unemployment rate',
+    'All Items, Consumer price index (CPI), Period average, percent change',
+    'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+)
+AND TIME_PERIOD = 2025;
+
+## 2020-2025 (Only largest 5 economies will be used for data viz - China, Japan, India, Australia, Korea) 3 different data vizz as there are 3 indicators over 5  years
+SELECT *
+FROM data_original_staging_2
+WHERE INDICATOR IN (
+    'Unemployment rate',
+    'All Items, Consumer price index (CPI), Period average, percent change',
+    'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+)
+;
+
+## Are high growth economies also experiencing higher inflation? 
+## Compare average GDP growth vs average inflation by country (or year-by-year correlation).
+
+## 2025
+SELECT COUNTRY,
+    AVG(CASE 
+            WHEN INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+            THEN OBS_VALUE
+        END) AS avg_gdp_growth,
+    AVG(CASE 
+            WHEN INDICATOR = 'All Items, Consumer price index (CPI), Period average, percent change'
+            THEN OBS_VALUE
+        END) AS avg_inflation
+FROM data_original_staging_2
+WHERE TIME_PERIOD = 2025
+GROUP BY COUNTRY
+;
+
+## 2020-2025 (Only largest 5 economies will be used for data viz - China, Japan, India, Australia, Korea)
+SELECT COUNTRY,
+    AVG(CASE 
+            WHEN INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+            THEN OBS_VALUE
+        END) AS avg_gdp_growth,
+    AVG(CASE 
+            WHEN INDICATOR = 'All Items, Consumer price index (CPI), Period average, percent change'
+            THEN OBS_VALUE
+        END) AS avg_inflation
+FROM data_original_staging_2
+WHERE TIME_PERIOD BETWEEN 2020 AND 2025
+GROUP BY COUNTRY
+;
+
+## Which economies show consistent growth?
+## “Consistency” = low volatility + positive average growth
+
+SELECT COUNTRY,
+    AVG(OBS_VALUE) AS avg_gdp_growth,
+    MAX(OBS_VALUE) - MIN(OBS_VALUE) AS gdp_growth_range
+FROM data_original_staging_2
+WHERE INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+  AND TIME_PERIOD BETWEEN 2020 AND 2025
+GROUP BY COUNTRY
+;
+
+## Which economies are structurally dependent on foreign capital?
+## Persistent negative current account balance = reliance on foreign capital
+
+##2025 
+SELECT COUNTRY,
+    AVG(OBS_VALUE) AS avg_current_account_balance
+FROM data_original_staging_2
+WHERE INDICATOR = 'Current account balance (credit less debit), Percent of GDP in US dollars'
+  AND TIME_PERIOD = 2025
+GROUP BY COUNTRY 
+;
+
+## Which countries rank highest on growth + stability + employment?
+## Create a macro performance profile: High avg GDP growth ,Low GDP volatility, Low unemployment
+
+## 2020-2025
+SELECT COUNTRY,
+    AVG(CASE 
+        WHEN INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+        THEN OBS_VALUE END) AS avg_gdp_growth,
+    MAX(CASE 
+        WHEN INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+        THEN OBS_VALUE END)
+    - MIN(CASE 
+        WHEN INDICATOR = 'Gross domestic product (GDP), Constant prices, Percent change, Domestic currency'
+        THEN OBS_VALUE END) AS gdp_volatility,
+    AVG(COALESCE(CASE 
+        WHEN INDICATOR = 'Unemployment rate'
+        THEN OBS_VALUE END, 0)) AS avg_unemployment  ## Handles NULLs as 0
+FROM data_original_staging_2
+WHERE TIME_PERIOD BETWEEN 2020 AND 2025
+GROUP BY COUNTRY
+;
+
+## Who performs best on a low inflation + low unemployment metric?
+## 	Lowest average inflation, Lowest average unemployment
+
+## 2020-2025
+SELECT COUNTRY,
+    AVG(CASE 
+        WHEN INDICATOR = 'All Items, Consumer price index (CPI), Period average, percent change'
+        THEN OBS_VALUE 
+    END) AS avg_inflation,
+    COALESCE(AVG(CASE 
+            WHEN INDICATOR = 'Unemployment rate'
+            THEN OBS_VALUE END), 0) AS avg_unemployment  -- Replaces NULL avg result with 0
+FROM data_original_staging_2
+WHERE TIME_PERIOD BETWEEN 2020 AND 2025
+GROUP BY COUNTRY
+ORDER BY avg_inflation ASC, avg_unemployment ASC
+;
+
+
+
